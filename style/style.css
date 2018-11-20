@@ -1,0 +1,20 @@
+h1 {
+  font-size: 60px;
+  font-family: 'Libre Baskerville', serif;      
+  color: #E3370B; 
+}
+ h2 {
+  font-size: 30px;
+  font-family: 'Libre Baskerville', serif; 
+  color: #EE380B;
+   
+     
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+html {
+  background-color: #FBCBC0;
+}
